@@ -9,7 +9,7 @@ As a part of this IoT project I have created :
 
 This simple device finds it application even in the industries especially chemical plants and factories.
 
-For detailed Literature of this project please refer to the this [documentation]().
+For detailed Literature of this project please refer to the this [documentation](https://drive.google.com/open?id=1yJgfpdcOjpkTcgMlSg5lgFaArECSjDIt).
 
 **Note:** This project is built on **Arduino Node MCU** to use it on other IoT boards a few changes will be needed.
 
