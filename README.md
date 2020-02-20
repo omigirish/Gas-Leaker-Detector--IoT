@@ -11,6 +11,8 @@ This simple device finds it application even in the industries especially chemic
 
 For detailed Literature of this project please refer to the this [documentation](https://drive.google.com/open?id=1yJgfpdcOjpkTcgMlSg5lgFaArECSjDIt).
 
+For a quick demo [click here](https://drive.google.com/open?id=1WNPr5vm4aWIhTRc7ImLazwiujzufDmRK).
+
 **Note:** This project is built on **Arduino Node MCU** to use it on other IoT boards a few changes will be needed.
 
 ## Schematics
