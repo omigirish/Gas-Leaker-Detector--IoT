@@ -15,10 +15,8 @@ For detailed Literature of this project please refer to the this [documentation]
 
 ## Schematics
 
-### General Block Diagram: 
-
+## General Block Diagram: 
 ![image](https://github.com/omigirish/Gas-Leaker-Detector--IoT/blob/master/Block%20Diagram.png)
 
-### Sensor Interfacing
-
+## Sensor Interfacing
 ![image](https://github.com/omigirish/Gas-Leaker-Detector--IoT/blob/master/Sensor%20Interfacing.png)
